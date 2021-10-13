@@ -19,6 +19,7 @@ Vous devez compléter les fonctions suivantes du fichier [exercice.py](exercice.
 
 ```python
 def is_even_len(string: str) -> bool:
+    
     pass
 
 def remove_third_char(string: str) -> str:
